@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[way:home|Door43 (way)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-way|d43-way repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-way/archive/master.zip|d43-way.zip]]
+
+**Recent Changes**
+{{changes>ns = way}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/way|Ethnologue data]]
+
